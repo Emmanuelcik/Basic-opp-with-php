@@ -1,6 +1,7 @@
 <?php 
 declare( strict_types = 1);
 include 'includes/header.php';
+//OPP BEFORE PHP 8.0
     //Define a class with the reserved word class
     class Product {
         //define the attributes
