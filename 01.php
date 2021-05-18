@@ -1,5 +1,6 @@
-<?php include 'includes/header.php';
+<?php 
 declare( strict_types = 1);
+include 'includes/header.php';
     //Define a class with the reserved word class
     class Product {
         //define the attributes

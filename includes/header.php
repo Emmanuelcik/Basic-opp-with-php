@@ -13,7 +13,7 @@
 
     <div class="contenido">
         <h1>Desarrollo Web Completo</h1>
-        <a href="http://www.codigoconjuan.com" target="_blank">codigoconjuan.com</a>
+      
         <p>Introducción a Programación Orientada a Objetos en PHP</p>
         <p class="hashtag">#DesarrolloWebCompleto</p>
 
