@@ -9,7 +9,7 @@ interface interfaceTransport{
     public function getWheels() : int;
 }
 
-abstract class Transport {
+abstract class Transport implements interfaceTransport {
 
     public function __construct(protected int $wheels, protected int $capacity)
     { 
